@@ -1,0 +1,8 @@
+Create website that has the functionality of first pass yield.
+
+First, create a way to display a list of questions in a table on a web page.
+
+Requirements:
+Need table with values in sqlite
+Need a server that hosts the index.html file
+Need a webpage that requests the values from that table using GET
